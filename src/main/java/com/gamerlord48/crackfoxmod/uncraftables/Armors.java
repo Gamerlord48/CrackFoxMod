@@ -26,10 +26,16 @@ public class Armors {
         /**
          GameRegistry.addShapelessRecipe(new ItemStack(Items.output, amount), new ItemStack(Items.input));
          */
-
+        //Iron Armor
         GameRegistry.addShapelessRecipe(new ItemStack(Items.iron_ingot, 8), new ItemStack(Items.iron_chestplate));
         GameRegistry.addShapelessRecipe(new ItemStack(Items.iron_ingot, 7), new ItemStack(Items.iron_leggings));
         GameRegistry.addShapelessRecipe(new ItemStack(Items.iron_ingot, 4), new ItemStack(Items.iron_boots));
         GameRegistry.addShapelessRecipe(new ItemStack(Items.iron_ingot, 5), new ItemStack(Items.iron_helmet));
+
+        //Gold Armor
+        GameRegistry.addShapelessRecipe(new ItemStack(Items.gold_ingot, 8), new ItemStack(Items.golden_chestplate));
+        GameRegistry.addShapelessRecipe(new ItemStack(Items.gold_ingot, 7), new ItemStack(Items.golden_leggings));
+        GameRegistry.addShapelessRecipe(new ItemStack(Items.gold_ingot, 4), new ItemStack(Items.golden_boots));
+        GameRegistry.addShapelessRecipe(new ItemStack(Items.gold_ingot, 5), new ItemStack(Items.golden_helmet));
     }
 }
