@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crackfoxmod",
+  "name": "CrackFox",
+  "description": "Official mod for the official crackfox server",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gamerlord48"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
