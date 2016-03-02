@@ -37,5 +37,11 @@ public class Armors {
         GameRegistry.addShapelessRecipe(new ItemStack(Items.gold_ingot, 7), new ItemStack(Items.golden_leggings));
         GameRegistry.addShapelessRecipe(new ItemStack(Items.gold_ingot, 4), new ItemStack(Items.golden_boots));
         GameRegistry.addShapelessRecipe(new ItemStack(Items.gold_ingot, 5), new ItemStack(Items.golden_helmet));
+
+        //Leather Armor
+        GameRegistry.addShapelessRecipe(new ItemStack(Items.leather, 8), new ItemStack(Items.leather_chestplate));
+        GameRegistry.addShapelessRecipe(new ItemStack(Items.leather, 7), new ItemStack(Items.leather_leggings));
+        GameRegistry.addShapelessRecipe(new ItemStack(Items.leather, 4), new ItemStack(Items.leather_boots));
+        GameRegistry.addShapelessRecipe(new ItemStack(Items.leather, 5), new ItemStack(Items.leather_helmet));
     }
 }
