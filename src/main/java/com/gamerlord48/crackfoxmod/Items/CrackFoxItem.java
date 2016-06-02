@@ -1,5 +1,5 @@
 package com.gamerlord48.crackfoxmod.Items;
-
+/*
 import com.gamerlord48.crackfoxmod.help.Reference;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
@@ -19,3 +19,4 @@ public class CrackFoxItem extends Item
         return name;
     }
 }
+*/
