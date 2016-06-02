@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="CrackFoxMod" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="com.yourname.modid" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="CrackFoxMod" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="com.gamerlord48.crackfoxmod" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -89,7 +89,7 @@
     <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:2.0.1" level="project" />
     <orderEntry type="library" name="Gradle: net.minecraftforge:forgeSrc:1.8-11.14.4.1577" level="project" />
     <orderEntry type="module-library" scope="RUNTIME">
-      <library name="Gradle: C__Users_bushnell427__gradle_caches_minecraft_net_minecraftforge_forge_1_8_11_14_4_1577_start">
+      <library name="Gradle: C__Users_gamer__gradle_caches_minecraft_net_minecraftforge_forge_1_8_11_14_4_1577_start">
         <CLASSES>
           <root url="file://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8-11.14.4.1577/start" />
         </CLASSES>
